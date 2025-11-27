@@ -11,15 +11,14 @@ theme:
   palette:
     # Light mode (default)
     - scheme: default
-      primary: blue
+      primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    
-    # Dark mode 
+    # Dark mode
     - scheme: slate
-      primary: blue
+      primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-4
