@@ -9,20 +9,21 @@ theme:
   
   # Set a color palette for a professional, focused look
   palette:
-    # Scheme slate is dark mode (default preference)
-    - scheme: slate
-      primary: blue
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-    # Scheme default is light mode (alternate)
+    # Light mode (default)
     - scheme: default
       primary: blue
       accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+    
+    # Dark mode 
+    - scheme: slate
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   
   # Professional font choices
   font:
