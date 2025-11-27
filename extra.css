@@ -1,0 +1,22 @@
+/* REMOVE or comment out this section */
+/*
+.md-sidebar.md-sidebar--secondary {
+    display: none !important;
+}
+*/
+
+/* Keep the rest of your CSS for centering content */
+.md-content {
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+    padding: 0 2rem !important;
+}
+
+.md-main__inner {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+.md-grid {
+    max-width: 100% !important;
+}
